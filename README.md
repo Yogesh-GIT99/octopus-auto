@@ -4,7 +4,7 @@
 
 **[See the live demo board →](https://github.com/users/Yogesh-GIT99/projects/5)** (generated from the [example projects](examples/))
 
-*By Yogesh Rautela · [LinkedIn](LINKEDIN_URL) · [GitHub](https://github.com/Yogesh-GIT99)*
+*By Yogesh Rautela · [LinkedIn](https://www.linkedin.com/in/yogesh-rautela-895655221) · [GitHub](https://github.com/Yogesh-GIT99)*
 
 ---
 
