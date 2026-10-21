@@ -1,0 +1,17 @@
+{
+  "board": {
+    "owner": "Yogesh-GIT99",
+    "project_number": 5,
+    "issues_repo": "Yogesh-GIT99/octopus-auto",
+    "fields": { "status": "Status", "context": "Context", "priority": "Priority", "effort": "Effort" }
+  },
+  "defaults": { "priority": "Med", "effort": "M" },
+  "sources": [
+    { "name": "edge-fleet", "status_doc": "examples/edge-fleet/STATUS.md",
+      "context": "Fleet", "epic_issue": 1, "title_prefix": "[Fleet] " },
+    { "name": "deploy-platform", "status_doc": "examples/deploy-platform/STATUS.md",
+      "context": "Platform", "epic_issue": 2, "title_prefix": "[Platform] " },
+    { "name": "terraform-prep", "status_doc": "examples/terraform-prep/STATUS.md",
+      "context": "Learning", "epic_issue": 3, "title_prefix": "[Learning] ", "priority": "Low", "effort": "S" }
+  ]
+}
