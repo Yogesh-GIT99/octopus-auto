@@ -2,7 +2,9 @@
 
 **Claude Code runs my GitHub task board.** It reads the status docs in my project repos and keeps a GitHub Projects v2 board in step with them: it creates tickets, moves them through Backlog → Todo → In Progress → Done, and closes them. I review what it changed instead of maintaining a tracker by hand.
 
-**[See the live demo board →](https://github.com/users/Yogesh-GIT99/projects/5)** (generated from the [example projects](examples/))
+**[See the live demo board →](https://github.com/users/Yogesh-GIT99/projects/5/views/1?layout=board&filterQuery=parent-issue%3A*)** (generated from the [example projects](examples/))
+
+[![Demo board: 26 tickets across Backlog, Todo, In Progress, Blocked and Done, all created and moved by octopus-auto](docs/img/board.png)](https://github.com/users/Yogesh-GIT99/projects/5/views/1?layout=board&filterQuery=parent-issue%3A*)
 
 *By Yogesh Rautela · [LinkedIn](https://www.linkedin.com/in/yogesh-rautela-895655221) · [GitHub](https://github.com/Yogesh-GIT99)*
 
